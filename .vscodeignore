@@ -1,0 +1,9 @@
+.vscode/**
+.git/**
+.gitignore
+.gitattributes
+vsc-extension-quickstart.md
+README.md
+LICENSE
+package-lock.json
+node_modules/**

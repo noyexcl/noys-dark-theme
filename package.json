@@ -1,0 +1,26 @@
+{
+  "name": "noys-dark-theme",
+  "displayName": "Noys Dark Theme",
+  "description": "A premium, rich dark theme for VS Code with vibrant accents.",
+  "version": "0.1.0",
+  "publisher": "noyexcl",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noyexcl/noys-dark-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Noys Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noys-dark-theme-color-theme.json"
+      }
+    ]
+  }
+}
